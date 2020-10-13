@@ -6,4 +6,4 @@
   <li>javascript</li>
 </ul>
 
-Переход на сайт -> <a href="https://umikitsune.github.io/Timer/">&#128526; &#127918; &#x2699 &#xFE0F</a>
+Переход на сайт -> <a href="https://umikitsune.github.io/Timer/">&#128526; &#127918; &#x2699; &#xFE0F;</a>
